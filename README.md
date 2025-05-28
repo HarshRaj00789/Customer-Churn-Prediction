@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Prediction
+# 📊 Customer Churn Prediction
 
 ![Intro](https://github.com/HarshRaj00789/Customer-Churn-Prediction/blob/main/output/customer%20churn.jpeg?raw=true)
 
